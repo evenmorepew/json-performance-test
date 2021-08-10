@@ -1,0 +1,96 @@
+{
+  "id": "6112e7ee793a4627ac166e4a",
+  "index": 0,
+  "guid": "fc5de475-23b3-4ce9-8d7a-04b14e62505d",
+  "isActive": false,
+  "balance": "$2,287.49",
+  "picture": "http://placehold.it/32x32",
+  "age": 37,
+  "eyeColor": "blue",
+  "name": "Ferrell Trujillo",
+  "gender": "male",
+  "company": "KAGGLE",
+  "email": "ferrelltrujillo@kaggle.com",
+  "phone": "+1 (903) 431-2843",
+  "address": "311 Elmwood Avenue, Churchill, Wisconsin, 4652",
+  "about": "Nostrud consectetur ea cillum quis duis. Incididunt dolore ipsum laboris ullamco duis cupidatat do incididunt elit eu est et. Dolore proident culpa veniam officia esse ad exercitation velit do consectetur. Pariatur aliqua est anim ad occaecat excepteur. Consequat nisi est dolor ipsum tempor ex velit ad ut officia exercitation duis incididunt. Aliquip amet enim voluptate quis Lorem exercitation labore adipisicing laboris sint dolor reprehenderit. Officia nulla consequat ipsum consequat Lorem.\r\n",
+  "registered": "2018-08-29T05:02:12 -02:00",
+  "latitude": 6.750461,
+  "longitude": 26.936428,
+  "test1": "4e4e3436-6bca-4876-bca1-011c681d728d",
+  "test2": "10009e8f-da53-4811-b7d1-03e68cf2d8d6",
+  "test3": "a4b0af4b-83f4-4b25-b253-0629cc3a0289",
+  "test4": "3f0cc44b-129b-4037-8bb1-cc12676f8f8a",
+  "test5": "576b77d5-c094-4585-9a93-18b8b62bc8a8",
+  "test6": "336c01b3-5421-4ab6-ae65-2586d8ae323f",
+  "test7": "59ae15dc-9070-4b5f-8ce0-61955d25fae2",
+  "test8": "469b63f7-589e-433d-ab1d-1499e6740bb6",
+  "test9": "4d818d83-e7e2-40ad-9f22-7550143fd813",
+  "test10": "aa63a014-f77f-4514-a358-40c09249ee5b",
+  "test11": "f9ce9f7f-74a3-4d2a-9b35-9b5dbe01212b",
+  "test12": "5e6511af-9630-4ac5-b98e-66fe6de556ef",
+  "test13": "078f9cb1-2d43-40ca-b0e5-18a8d085815d",
+  "test14": "8843a11a-2cae-4245-aace-e7e60ae90afd",
+  "test15": "d8c788bf-69e9-4ad2-8c46-28d52f582143",
+  "tags": [
+    "deserunt",
+    "aliquip",
+    "laboris",
+    "laboris",
+    "do",
+    "nostrud",
+    "consectetur",
+    "anim",
+    "sint",
+    "eiusmod",
+    "cillum",
+    "eiusmod",
+    "tempor",
+    "ad",
+    "Lorem"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Curry Delacruz"
+    },
+    {
+      "id": 1,
+      "name": "Kitty Suarez"
+    },
+    {
+      "id": 2,
+      "name": "Walker Pruitt"
+    },
+    {
+      "id": 3,
+      "name": "Courtney Ferguson"
+    },
+    {
+      "id": 4,
+      "name": "Martina Hooper"
+    },
+    {
+      "id": 5,
+      "name": "Atkinson Briggs"
+    },
+    {
+      "id": 6,
+      "name": "Klein Harding"
+    },
+    {
+      "id": 7,
+      "name": "Burnett Walton"
+    },
+    {
+      "id": 8,
+      "name": "Leach Mejia"
+    },
+    {
+      "id": 9,
+      "name": "Osborne Cardenas"
+    }
+  ],
+  "greeting": "Hello, Ferrell Trujillo! You have 5 unread messages.",
+  "favoriteFruit": "banana"
+}
